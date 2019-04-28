@@ -1,8 +1,9 @@
 README for LuaJIT 2.0.5 (2.1 : https://github.com/MarcFaussurier/LuaJIT_CMake/tree/v2.1)
 -----------------------
 
-LuaJIT is a Just-In-Time (JIT) compiler for the Lua programming language.
+The CMAKE files comes was created by Peter Drahoš (I copied it from here: https://github.com/torch/luajit-rocks/blob/master/luajit-2.1/CMakeLists.txt)
 
+LuaJIT is a Just-In-Time (JIT) compiler for the Lua programming language.
 Project Homepage: http://luajit.org/
 
 LuaJIT is Copyright (C) 2005-2017 Mike Pall.
